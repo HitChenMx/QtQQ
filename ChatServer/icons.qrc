@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>qrc/132.bmp</file>
+        <file>qrc/212.bmp</file>
+        <file>qrc/620.bmp</file>
+        <file>qrc/624.bmp</file>
+        <file>qrc/tcpserver.png</file>
+        <file>UserFile/default.png</file>
+    </qresource>
+</RCC>
