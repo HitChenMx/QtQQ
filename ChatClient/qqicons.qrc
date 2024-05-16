@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/qqicons">
+        <file>qrc/119-down-arrow.svg</file>
+        <file>qrc/119-up-arrow.png</file>
+        <file>qrc/add_friend.svg</file>
+        <file>qrc/delete.svg</file>
+        <file>qrc/delete_blue.svg</file>
+        <file>qrc/female.svg</file>
+        <file>qrc/friends.svg</file>
+        <file>qrc/friends_blue.svg</file>
+        <file>qrc/icon_down_arrow.svg</file>
+        <file>qrc/icon_up_arrow.svg</file>
+        <file>qrc/information.svg</file>
+        <file>qrc/information_blue.svg</file>
+        <file>qrc/male.svg</file>
+        <file>qrc/no_search.svg</file>
+        <file>qrc/notice.svg</file>
+        <file>qrc/offline.svg</file>
+        <file>qrc/online.svg</file>
+        <file>qrc/plus_icon.svg</file>
+        <file>qrc/qq_pure.svg</file>
+        <file>qrc/QQicon.svg</file>
+        <file>qrc/red_circle.svg</file>
+        <file>qrc/rename_icon.svg</file>
+        <file>qrc/right_expand.svg</file>
+        <file>qrc/search.svg</file>
+        <file>qrc/search_is_null.svg</file>
+        <file>qrc/white_camera.svg</file>
+        <file>qrc/picture.svg</file>
+        <file>qrc/picture_blue.svg</file>
+        <file>qrc/img_deleted.png</file>
+    </qresource>
+    <qresource prefix="/setfile">
+        <file>setup/scrollbar.qss</file>
+        <file>setup/setup.ini</file>
+    </qresource>
+</RCC>
